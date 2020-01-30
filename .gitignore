@@ -4,3 +4,8 @@ data
 models
 *.swp
 *.p
+examples
+checkpoint
+lenet*
+set-git.sh
+writeup_template.md
